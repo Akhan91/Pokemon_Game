@@ -1,0 +1,18 @@
+.playAgainButtonDiv {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 200px;
+}
+
+.playAgainButton {
+  margin-top: 30px;
+  padding:10px;
+  background-color: #002ead;
+  color: white;
+  border-radius: 5px;
+}
+
+.playAgainButton:hover {
+  background-color: rgb(31, 172, 21);
+  transition: 0.1s;
+}

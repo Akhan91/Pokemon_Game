@@ -1,0 +1,26 @@
+.TotalExperience {
+    margin-left: 20px;
+}
+.HeaderTitle {
+    margin-left: 20px;
+}
+.pokedex {
+    text-align: center;
+}
+.Pokedex-cards {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    font-size: 80%;
+}
+
+.Pokedex-winner {
+    display: flex;
+    justify-content: center;
+    color:green;
+}
+.Pokedex-loser {
+    display: flex;
+    justify-content: center;
+    color:red;
+}
